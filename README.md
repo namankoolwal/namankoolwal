@@ -22,6 +22,19 @@
 - 📫 Reach me at email 📧 namankoolwal1411@gmail.com
 
 
+<br>
+
+<!--<h2 align="left"> 💬 <b>Connect with me:</b></h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohit-panthri-a36045210/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="40" width="40" />
+</a>
+&nbsp; &nbsp;
+<a href="https://www.instagram.com/imohitpanthri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
+&nbsp; &nbsp;     
+<br><br> -->
+
+
 <h2 align="left"><b>📊 Github Stats</b></h2>
 <br>
 
