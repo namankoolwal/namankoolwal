@@ -40,7 +40,7 @@
 
 <p align="center">
       <img width="50%"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=compact"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=donut"
       />
     </p>
     
