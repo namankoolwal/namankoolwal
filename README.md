@@ -39,8 +39,8 @@
 <br>
 
 <p align="center">
-      <img width="41%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=namankoolwal&layout=compact&theme=highcontrast"
+      <img width="50%"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=compact"
       />
     </p>
     
@@ -52,7 +52,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStr
 </p>
 <p align="center">
 <img width="50%"
-      src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast"
+      src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"
       />
 </p>
 <br><br><br>
