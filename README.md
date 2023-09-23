@@ -12,6 +12,7 @@
 
 <h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
 <br>
+<img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
 
 
 - 👀 I’m interested in website development
