@@ -41,7 +41,7 @@
 <h2 align="left">💬 <b>Connect with me:</b></h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/naman-khandelwal-568971189/" target="blank"
+  <a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="blank"
     ><img
       align="center"
       src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg"
