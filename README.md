@@ -28,7 +28,7 @@
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 
 <p align="left">
-<a href="www.linkedin.com/in/naman-khandelwal-568971189/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="40" width="40" />
+<a href="www.linkedin.com/in/naman-khandelwal-568971189" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="40" width="40" />
 </a>
 &nbsp; &nbsp;
 <a href="https://www.instagram.com/naman_koolwal/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
@@ -51,13 +51,13 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStr
       />
 
 </p>
-<br><br>
+<br>
 <p align="center">
 <img width="50%"
       src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast"
       />
 </p>
-<br>
+<br><br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
