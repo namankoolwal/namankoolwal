@@ -6,13 +6,49 @@
 
 </div>
 
-- 👋 Hi, I’m @namankhandelwal
+<div align="center"> 
+<h1> Hi <img src="https://user-images.githubusercontent.com/99413629/212355689-3911cc66-da6d-4432-abfb-864fdaf544c3.gif" width="30"> , I'm Naman Khandelwal </h1>
+</div>
+
+<h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
+<br>
+
+
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning react js
 
 - 💞️ I’m looking to collaborate 
 
 - 📫 Reach me at email 📧 namankoolwal1411@gmail.com
+
+
+<h2 align="left"><b>📊 Github Stats</b></h2>
+<br>
+
+<p align="center">
+      <img width="41%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=namankoolwal&layout=compact&theme=highcontrast"
+      />
+    </p>
+    
+<p align="center">
+<img width="50%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"
+      />
+<br><br>
+</p>
+
+<br>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
+</p>
+
 
 <!---
 namankoolwal/namankoolwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
