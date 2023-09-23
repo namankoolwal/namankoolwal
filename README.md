@@ -39,19 +39,19 @@
 <br>
 
 <p align="center">
-      <img width="50%"
+      <img width="90%"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=compact"
       />
     </p>
     
 <p align="center">
-<img width="50%"
+<img width="90%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"
       />
 
 </p>
 <p align="center">
-<img width="50%"
+<img width="90%"
       src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"
       />
 </p>
