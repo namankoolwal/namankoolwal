@@ -27,10 +27,10 @@
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="40" width="40" />
+<a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359457-7cec5290-c241-4959-90e4-2856d94eb57a.svg" alt="mohit panthri" height="40" width="40" />
 </a>
 &nbsp; &nbsp;
-<a href="https://www.instagram.com/naman_koolwal/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
+<a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="imohitpanthri" height="40" width="40" /></a>
 &nbsp; &nbsp;     
 <br><br>
 
