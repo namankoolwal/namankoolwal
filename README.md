@@ -68,9 +68,7 @@
 <br/> </br> 
 
 
-<h2 align="left"><b>📊 Github Stats</b></h2>
-<br>
-
+<h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
       <img width="35%"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=compact"
