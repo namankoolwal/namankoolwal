@@ -70,7 +70,7 @@
 
 <h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
-      <img width="50%"
+      <img
             src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=compact"
       />
     </p>
