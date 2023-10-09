@@ -70,26 +70,18 @@
 
 <h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
-      <img
+      <img width="80%"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&layout=compact"
+      />
+      <img width="80%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"
+      />
+      <img width="80%"
+      src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"
       />
     </p>
     
-<p align="center">
-      
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"
-      />
- <img 
-      src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"
-      />
-      
-</p>
-<!-- <p align="center">
-<img width="90%"
-      src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"
-      />
-</p> -->
+
 
 <br><br><br>
 <div align="center">
