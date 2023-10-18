@@ -81,8 +81,10 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStr
       src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"
       />
     </p>
-    
+<br><br><br>
+<h2 align="center"><b>📛 Holopin Badges</b></h2>
 
+[![An image of @namankoolwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namankoolwal)](https://holopin.io/@namankoolwal)
 
 <br><br><br>
 <div align="center">
