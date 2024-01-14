@@ -32,28 +32,6 @@
 &nbsp; &nbsp;
 <a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/99413629/212359076-10c5cec2-4754-402c-bfc7-054ea0ec2dca.svg" alt="naman khandelwal" height="40" width="40" /></a></p>
 &nbsp; &nbsp;  
-
-<!--<div align="center">
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img style="margin: 10px" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/namankoolwal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
- </a>  
-</div>   -->
-  
       
 ## My Skill Set  
 
@@ -88,6 +66,14 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStr
 [![An image of @namankoolwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namankoolwal)](https://holopin.io/@namankoolwal)
 
 <br><br><br>
+
+<h2 align="center"><b>🎇 AWS Badges</b></h2>
+
+![aws-educate-introduction-to-cloud-101](https://github.com/namankoolwal/namankoolwal/assets/104143943/33e73087-0498-4356-b2a8-1bfe465dcc9c)
+
+
+<br><br><br>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
@@ -96,9 +82,3 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStr
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
 </p>
-
-
-<!---
-namankoolwal/namankoolwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
