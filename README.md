@@ -55,9 +55,9 @@
 
 <h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"/>
-<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
 </p>
 <br>
 
@@ -68,7 +68,7 @@
 <br>
 
 <h2 align="center"><b>🎇 AWS Badges</b></h2>
-<div align="center"> 
+<div align="left"> 
       
 ![aws-educate-introduction-to-cloud-101](https://github.com/namankoolwal/namankoolwal/assets/104143943/33e73087-0498-4356-b2a8-1bfe465dcc9c)
 
