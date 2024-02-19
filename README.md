@@ -78,6 +78,9 @@
 
 <br>
 
+<!--<img src="https://raw.githubusercontent.com/namankoolwal/namankoolwal/output/snake.svg" alt="Snake animation" />-->
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
