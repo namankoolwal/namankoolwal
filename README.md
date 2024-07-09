@@ -43,8 +43,11 @@
       
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 
-<!--    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
- -->
+<div align="center">
+      
+   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
+</div>
+ 
 
 
 <table align="center">
@@ -100,7 +103,6 @@
 </tr>
 <tr>
 
-</td>
 <td>
 
 ### Testing and API
