@@ -43,10 +43,9 @@
       
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 
-<div align="center">
-      
+<!--- <div align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
-</div>
+</div> --->
  
 
 
@@ -54,7 +53,7 @@
 <tr>
 <td >
 
-##### Foundational Web Technologies
+###### Foundational Web Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
 
@@ -62,14 +61,14 @@
 
 <td style="width:33%">
 
-##### Frontend Libraries and Frameworks
+###### Frontend Libraries and Frameworks
 
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux&perline=4" />
 </td>
 
 <td style="width:33%">
 
-##### Version Control
+###### Version Control
 
 <img src="https://skillicons.dev/icons?i=git,github&perline=2" />
 
@@ -79,7 +78,7 @@
 
 <td style="width:33%">
 
-##### Backend and Database
+###### Backend and Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
 
@@ -87,14 +86,14 @@
 
 <td >
 
-##### Authentication and Databases
+###### Authentication and Databases
 
 <img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
 
 </td>
 <td style="width:33%">
 
-##### Package Management
+###### Package Management
 
 <img src="https://skillicons.dev/icons?i=npm&perline=1" />
 
@@ -105,7 +104,7 @@
 
 <td style="width:33%">
 
-##### Testing and API
+###### Testing and API
 
 <img src="https://skillicons.dev/icons?i=postman&perline=1" />
 
@@ -113,14 +112,14 @@
 
 <td >
 
-##### Deployment Platforms
+###### Deployment Platforms
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
 
 </td>
 <td style="width:33%">
 
-##### Content Management System
+###### Content Management System
 
 <img src="https://skillicons.dev/icons?i=wordpress&perline=1" />
 
@@ -130,7 +129,7 @@
 <tr>
 <td style="width:33%">
 
-##### Development Environment
+###### Development Environment
 
 <img src="https://skillicons.dev/icons?i=vscode&perline=1" />
 
