@@ -50,7 +50,7 @@
  
 
 
-<table align="center">
+<table align="center" style="width:100%">
 <tr>
 <td >
 
@@ -60,14 +60,14 @@
 
 </td>
 
-<td>
+<td style="width:33%">
 
 ### Frontend Libraries and Frameworks
 
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux&perline=4" />
 </td>
 
-<td>
+<td style="width:33%">
 
 ### Version Control
 
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 
-<td>
+<td style="width:33%">
 
 ### Backend and Database
 
@@ -92,7 +92,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
 
 </td>
-<td>
+<td style="width:33%">
 
 ### Package Management
 
@@ -103,7 +103,7 @@
 </tr>
 <tr>
 
-<td>
+<td style="width:33%">
 
 ### Testing and API
 
@@ -118,7 +118,7 @@
 <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
 
 </td>
-<td>
+<td style="width:33%">
 
 ### Content Management System
 
@@ -128,7 +128,7 @@
 
 </tr>
 <tr>
-<td>
+<td style="width:33%">
 
 ### Development Environment
 
@@ -137,6 +137,7 @@
 </td>
 </tr>
 </table>
+
       
 
 <br/> </br> 
