@@ -3,13 +3,19 @@
 <div align=center>     
       
 ![Profile Views](https://komarev.com/ghpvc/?username=namankoolwal&color=219ebc&style=flat)
+<br><br>
 </div>
 
-<div align="center"> 
-<h1> Hi <img src="https://user-images.githubusercontent.com/99413629/212355689-3911cc66-da6d-4432-abfb-864fdaf544c3.gif" width="30"> , I'm Naman Khandelwal </h1>
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Naman+Khandelwal!" alt="Typing SVG" /></a>
+     
 </div>
 
 <h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
@@ -37,10 +43,99 @@
       
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,firebase,appwrite,mongodb,mysql,npm,nodejs,express,wordpress" />
-<!--     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,firebase,appwrite,mongodb,mysql,npm,nodejs,express,wordpress&perline=9" /> -->
-</p>
+<!--    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
+ -->
+
+
+<table align="center">
+<tr>
+<td >
+
+### Foundational Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
+
+</td>
+
+<td>
+
+### Frontend Libraries and Frameworks
+
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux&perline=4" />
+</td>
+
+<td>
+
+### Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=2" />
+
+</td>
+</tr>
+<tr>
+
+<td>
+
+### Backend and Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+
+</td>
+
+<td >
+
+### Authentication and Databases
+
+<img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
+
+</td>
+<td>
+
+### Package Management
+
+<img src="https://skillicons.dev/icons?i=npm&perline=1" />
+
+</td>
+
+</tr>
+<tr>
+
+</td>
+<td>
+
+### Testing and API
+
+<img src="https://skillicons.dev/icons?i=postman&perline=1" />
+
+</td>
+
+<td >
+
+### Deployment Platforms
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
+
+</td>
+<td>
+
+### Content Management System
+
+<img src="https://skillicons.dev/icons?i=wordpress&perline=1" />
+
+</td>
+
+</tr>
+<tr>
+<td>
+
+### Development Environment
+
+<img src="https://skillicons.dev/icons?i=vscode&perline=1" />
+
+</td>
+</tr>
+</table>
+      
 
 <br/> </br> 
 
@@ -53,6 +148,8 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"/><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
+
+
 </p>
 <br>
 
