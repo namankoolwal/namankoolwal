@@ -157,6 +157,16 @@
 </p>
 <br>
 
+<h2 align="center"><b>🌄 GitHub Activity</b></h2>
+
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namankoolwal&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
+</div>
+
+
+
+<br>
+
 <h2 align="center"><b>📛 Holopin Badges</b></h2>
 
 [![An image of @namankoolwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namankoolwal)](https://holopin.io/@namankoolwal)
