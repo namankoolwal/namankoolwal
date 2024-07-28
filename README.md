@@ -46,12 +46,19 @@
 <!--- <div align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
 </div> --->
- 
 
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux&perline=7" />
 
-<table align="center" style="width:100%">
+<img src="https://skillicons.dev/icons?i=git,nodejs,express,mongodb,mysql,firebase,appwrite&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=github,npm,postman,vercel,netlify,wordpress,vscode&perline=7" />
+</div>
+
+<table align="center" width="200%">
 <tr>
-<td >
+<td style="width:50%">
+
 
 ###### Foundational Web Technologies
 
@@ -59,30 +66,33 @@
 
 </td>
 
-<td style="width:33%">
+<td style="width:50%">
 
 ###### Frontend Libraries and Frameworks
 
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux&perline=4" />
 </td>
 
-<td style="width:33%">
+</tr>
+<tr>
+
+<td style="width:50%">
 
 ###### Version Control
 
 <img src="https://skillicons.dev/icons?i=git,github&perline=2" />
 
 </td>
-</tr>
-<tr>
 
-<td style="width:33%">
+<td style="width:50%">
 
 ###### Backend and Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
 
 </td>
+</tr>
+<tr>
 
 <td >
 
@@ -91,7 +101,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
 
 </td>
-<td style="width:33%">
+<td style="width:50%">
 
 ###### Package Management
 
@@ -102,7 +112,7 @@
 </tr>
 <tr>
 
-<td style="width:33%">
+<td style="width:50%">
 
 ###### Testing and API
 
@@ -117,7 +127,9 @@
 <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
 
 </td>
-<td style="width:33%">
+</tr>
+
+<td style="width:50%">
 
 ###### Content Management System
 
@@ -125,9 +137,7 @@
 
 </td>
 
-</tr>
-<tr>
-<td style="width:33%">
+<td style="width:50%">
 
 ###### Development Environment
 
@@ -135,6 +145,7 @@
 
 </td>
 </tr>
+<tr>
 </table>
 
 
