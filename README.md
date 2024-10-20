@@ -87,7 +87,6 @@
 <div align="center">
 <a href="https://app.daily.dev/namankhandelwal26"> <img src="https://api.daily.dev/devcards/v2/68qj3Y75PaAFJTpDjqE7z.png?type=wide&r=vht" width="652" alt="Naman Khandelwal's Dev Card"/></a>
 
-<a href="https://app.daily.dev/namankhandelwal26"> <img src="./devcard.png" width="652" alt="Naman Khandelwal's Dev Card"/></a>
 
 </div>
 
