@@ -47,14 +47,17 @@
    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode,figma,xd&perline=10" />
 </div> 
 
-
-
-<!-- |     <b>🎇Languages and Tools</b>      |      
-|---------------------------------|
+<div align="ceñter">
+      
+| |
+|---------------------------------| 
 |  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs" />   |
+|   |
 |  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress"/> |
-| <img src="https://skillicons.dev/icons?i=vscode,figma,xd"/>   | -->
+|   |
+| <img src="https://skillicons.dev/icons?i=vscode,figma,xd"/>   |
 
+</div> 
 
 
 
@@ -96,6 +99,8 @@
 
 <div align="center">
 <a href="https://app.daily.dev/namankhandelwal26"> <img src="https://api.daily.dev/devcards/v2/68qj3Y75PaAFJTpDjqE7z.png?type=wide&r=vht" width="652" alt="Naman Khandelwal's Dev Card"/></a>
+
+<a href="https://app.daily.dev/namankhandelwal26"> <img src="./devcard.png" width="652" alt="Naman Khandelwal's Dev Card"/></a>
 
 </div>
 
