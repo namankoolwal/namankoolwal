@@ -47,19 +47,6 @@
    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode,figma,xd&perline=10" />
 </div> 
 
-<div align="ceñter">
-      
-| |
-|---------------------------------| 
-|  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs" />   |
-|   |
-|  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress"/> |
-|   |
-| <img src="https://skillicons.dev/icons?i=vscode,figma,xd"/>   |
-
-</div> 
-
-
 
       
 
