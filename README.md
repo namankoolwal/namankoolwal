@@ -44,7 +44,7 @@
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode,figma,xd&perline=10" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode,figma,xd" />
 </div> 
 
 
@@ -53,7 +53,8 @@
 <br/> </br> 
 
 <h2 align="center"><b>🏆 Github Trophy</b></h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&margin-w=4" style="margin: 10px" alt="namankoolwal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
+
 <br> <br>
 
 <h2 align="center"><b>📊 Github Stats</b></h2>
