@@ -13,20 +13,19 @@
      
 </div>
 
-<h3 align="center">A passionate Web Developer and Life-Long Learner based in India</h3>
+<h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
 
-- 👀 I’m interested in **Full Stack Development**
-
-- 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
-
-- 👨‍💻 All of my projects are available [here](https://portfolio-namank.vercel.app/)
-
-- 📫 How to reach me **namankoolwal1411@gmail.com**
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio](http://portfolio-namank.vercel.app/)
+* ✉️  You can contact me at [namankoolwal1411@gmail.com](mailto:namankoolwal1411@gmail.com)
+* 🧠  I'm learning Nextjs , Threejs
+* 🤝  I'm open to collaborating on MERN Stack Projects
+* ⚡  I'm secretly Spiderman, but don't tell Anyone
 
 
 <br>
