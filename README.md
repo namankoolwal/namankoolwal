@@ -32,13 +32,17 @@
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
 <p align="left">  
-<a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman khandelwal" height="40" width="40" /> </a>
-&nbsp; &nbsp;
-<a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
-&nbsp; &nbsp; 
-<a href="https://twitter.com/NAMANKH31936926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naman khandelwal" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="naman khandelwal" height="40" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" /></a>
+&nbsp;
+<a href="https://twitter.com/NAMANKH31936926" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="naman khandelwal" height="40" width="40" /></a>
+&nbsp; 
+<a href="mailto:namankoolwal1411@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="naman khandelwal" height="40" width="40" /></a>
+&nbsp; 
+<a href="https://discordapp.com/users/Naman_K#6248" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="naman khandelwal" height="40" width="40" /></a>
+&nbsp; 
 </p>
-&nbsp; &nbsp; 
       
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 
