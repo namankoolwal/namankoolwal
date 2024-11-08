@@ -96,10 +96,11 @@
 
 <br>
 
-<h2 align="center"><b>🎇 AWS Badges</b></h2>
-<div align="left"> 
+<h2 align="center"><b>🎇Badges</b></h2>
+<div align="center"> 
       
 ![aws-educate-introduction-to-cloud-101](https://github.com/namankoolwal/namankoolwal/assets/104143943/33e73087-0498-4356-b2a8-1bfe465dcc9c)
+![github-foundations](https://github.com/user-attachments/assets/a3891013-24ca-4131-9895-396252958265)
 
 </div>
 
