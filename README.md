@@ -77,23 +77,23 @@
     <thead>
         <tr>
             <th>Naman's Languages</th>
-            <th>Naman's Streakes</th>
+            <th>Naman's Streaks</th>
             <th>Naman's Stats</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact" alt="Hacky's Top Languages" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact" alt="Naman's Top Languages" style="max-width: 100%;">
                 </a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00" alt="naman's Wakatimes" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00" alt="Naman's GitHub Streak" style="max-width: 100%;">
                 </a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"><img src="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github" alt="Hacky's Wakatimes" style="max-width: 100%;">
-                <!-- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko" alt="Hacky's Wakatimes" style="max-width: 100%;"> -->
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"><img src="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github" alt="Naman's GitHub Stats" style="max-width: 100%;">
+                <!-- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko" alt="Naman's WakaTime Stats" style="max-width: 100%;"> -->
                 </a>
             </td>
         </tr>
