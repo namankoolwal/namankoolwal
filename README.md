@@ -56,7 +56,7 @@
 <br/> </br> 
 
 <h2 align="center"><b>🏆 Github Trophy</b></h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
 
 <br>
 
