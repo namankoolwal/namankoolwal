@@ -58,17 +58,51 @@
 <h2 align="center"><b>🏆 Github Trophy</b></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
 
-<br> <br>
+<br>
 
-<h2 align="center"><b>📊 Github Stats</b></h2>
+<!-- <h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"/><br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
+<img  src="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"/><br>
+<img  src="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
 
 
 </p>
+<br> -->
+
+
+
+<h2 align="center"><b>📊 Github Stats<b></h2>
+<table>
+    <thead>
+        <tr>
+            <th>Naman's Languages</th>
+            <th>Naman's Streakes</th>
+            <th>Naman's Stats</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact" alt="Hacky's Top Languages" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namankoolwal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00" alt="naman's Wakatimes" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github"><img src="https://github-readme-stats-dply.vercel.app/api?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00&rank_icon=github" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                <!-- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=namankoolwal&langs_count=18&theme=merko" alt="Hacky's Wakatimes" style="max-width: 100%;"> -->
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<hr>
 <br>
+
+
 
 <h2 align="center"><b>🌄 GitHub Activity</b></h2>
 
