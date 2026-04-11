@@ -143,6 +143,21 @@
 <br>
 
 
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<br/>
+
+
+<div align="center">
+
+### 💬 &nbsp;*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br/>
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
@@ -151,3 +166,5 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
 </p>
+
+
