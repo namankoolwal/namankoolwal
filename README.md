@@ -31,26 +31,35 @@
 <br>
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
-<p align="left">  
-<a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="naman khandelwal" height="40" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" /></a>
-&nbsp;
-<a href="https://twitter.com/NAMANKH31936926" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="naman khandelwal" height="40" width="40" /></a>
-&nbsp; 
-<a href="mailto:namankoolwal1411@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="naman khandelwal" height="40" width="40" /></a>
-&nbsp; 
-<a href="https://discordapp.com/users/Naman_K#6248" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="naman khandelwal" height="40" width="40" /></a>
-&nbsp; 
-</p>
+<table border=0>
+  <thead>
+    <tr>
+      <th><a href="https://www.linkedin.com/in/naman-khandelwal-568971189/" target="_blank"><img
+            src="https://skillicons.dev/icons?i=linkedin" alt="naman khandelwal" height="40" width="40" /></a>
+      </th>
+      <th> <a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img
+            src="https://skillicons.dev/icons?i=instagram" height="40" width="40" /></a>
+      </th>
+      <th><a href="https://twitter.com/NAMANKH31936926" target="blank"><img src="https://skillicons.dev/icons?i=twitter"
+            alt="naman khandelwal" height="40" width="40" /></a>
+      </th>
+      <th><a href="mailto:namankoolwal1411@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail"
+            alt="naman khandelwal" height="40" width="40" /></a>
+      </th>
+      <th><a href="https://discordapp.com/users/Naman_K#6248" target="blank"><img
+            src="https://skillicons.dev/icons?i=discord" alt="naman khandelwal" height="40" width="40" /></a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+<br/>
       
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
 
 <div align="left">
    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,nestjs,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,jest,vscode,figma,xd&perline=12" />
 </div> 
-
-
       
 
 <br/> </br> 
