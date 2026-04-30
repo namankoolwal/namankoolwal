@@ -1,4 +1,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif">
+<!-- <img align="center" alt="Naman Khandelwal (5)" src="https://github.com/user-attachments/assets/ea2e5df7-b851-48f4-a89f-e068020e721a" /> -->
+<br>
 
 <div align=center>     
       
