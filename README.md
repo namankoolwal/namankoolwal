@@ -17,10 +17,13 @@
 
 <h3 align="center">A passionate Full-Stack Developer and Life-Long Learner based in India</h3>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
+<!-- <img align="right" width="300" height="270" alt="Copilot3D-1fff342b-3fc1-42a2-8b27-b9c73c9d7f25" src="https://github.com/user-attachments/assets/fc11692b-9f86-41f9-9624-55523fc54ad0" /> -->
+ <br/>
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-namank.vercel.app/)
